@@ -11,3 +11,5 @@ so started by scanning the board and using it as a background image in Sprint La
 I submitted the files to JLCPCB and hoped for the best. Amazingly, they were the correct size, and afetr soldering the switches back in, everything worked!
 
 I therefore thought I'd share these files should anyone find that they need a new PCB for the same model of DK Tronics keyboard.
+
+![pcb](https://github.com/user-attachments/assets/fc3b7dc0-43bc-4a84-8d25-7cfbfc29c538)
