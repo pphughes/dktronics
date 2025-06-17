@@ -1,3 +1,4 @@
+![keyboard](https://github.com/user-attachments/assets/b2f74126-607e-4071-b7e5-b3bd1fde7e81)
 # dktronics
 Gerber files for new PCB for ZX Spectrum DK Tronics keyboard (large space bar version)
 
